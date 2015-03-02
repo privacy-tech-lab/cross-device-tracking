@@ -1,6 +1,7 @@
 package com.example.hyungtae.testapp2;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -16,8 +17,6 @@ import android.content.Intent;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.text.DateFormat;
-import java.util.TimeZone;
 
 //TODO Add field to set user_id
 public class MainActivity extends ActionBarActivity {
@@ -28,25 +27,27 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
         Button button1 = (Button)findViewById(R.id.button_1);
         context = getApplicationContext();
+
         button1.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View arg0) {
                 try {
+                    SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
+                    lastChecked = settings.getLong("lastChecked", 0);
                     Uri uriCustom;
                     String sel = Browser.BookmarkColumns.BOOKMARK + " = 0"; // 0 = history, 1 = bookmark
                     Cursor mCur;
                     //TODO Filename should depend on username and time
                     File file = new File(context.getExternalCacheDir() + "/hist.txt");
                     file.createNewFile();
-                    for (int i = 0; i < browsers.length; i++) {
-                        uriCustom = Uri.parse(browsers[i]);
+                    for (String browser : browsers) {
+                        uriCustom = Uri.parse(browser);
                         //TODO more elegant error handling
                         try {
                             mCur = getContentResolver().query(uriCustom, proj, sel, null, null);
                             if (mCur != null)
                                 parseHistory(mCur, file);
-                        }
-                        catch (Exception e) {
+                        } catch (Exception e) {
 
                         }
                     }
@@ -60,6 +61,11 @@ public class MainActivity extends ActionBarActivity {
                     sharingIntent.putExtra(Intent.EXTRA_SUBJECT, "Browser History Log");
                     sharingIntent.putExtra(Intent.EXTRA_TEXT, "");
                     startActivity(Intent.createChooser(sharingIntent, "Send email"));
+
+                    SharedPreferences.Editor editor = settings.edit();
+                    lastChecked = System.currentTimeMillis()/1000;
+                    editor.putLong("lastChecked", lastChecked);
+                    editor.commit();
                 }
                 catch (IOException e) {
 
@@ -92,19 +98,16 @@ public class MainActivity extends ActionBarActivity {
 
     private void parseHistory(Cursor mCur, File file) throws IOException {
         mCur.moveToFirst();
-        String title = "";
-        String url = "";
-        String date = "";
-        String visits = "";
-        String created = "";
+        String title;
+        String url;
+        String date;
+        String visits ;
+        String created;
         String dl = "\t";
-        DateFormat d1 = DateFormat.getDateInstance();
-        d1.setTimeZone(TimeZone.getTimeZone("UTC"));
 
         FileWriter writer = new FileWriter(file.getAbsolutePath(), true);
         if (mCur.moveToFirst() && mCur.getCount() > 0) {
-            boolean cont = true;
-            while (mCur.isAfterLast() == false && cont) {
+            while (!mCur.isAfterLast()) {
                 title = mCur.getString(mCur.getColumnIndex(proj[0]));
                 url = mCur.getString(mCur.getColumnIndex(proj[1]));
                 date = mCur.getString(mCur.getColumnIndex(proj[2]));
@@ -112,12 +115,12 @@ public class MainActivity extends ActionBarActivity {
                 created = mCur.getString(mCur.getColumnIndex(proj[4]));
 
                 //TODO Store the last checked time
-                /*
+
                 if (Long.parseLong(date) < lastChecked) {
                     mCur.moveToNext();
                     continue;
                 }
-                */
+
                 writer.write(title + dl + url + dl + date + dl + visits + dl + created + '\n');
                 mCur.moveToNext();
             }
@@ -141,5 +144,5 @@ public class MainActivity extends ActionBarActivity {
 
     private long lastChecked = 0;
     private static Context context;
-
+    public static final String PREFS_NAME = "MyPrefsFile";
 }
