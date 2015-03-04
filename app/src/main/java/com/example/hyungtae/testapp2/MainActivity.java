@@ -55,7 +55,7 @@ public class MainActivity extends ActionBarActivity {
                     Intent sharingIntent = new Intent(Intent.ACTION_SEND);
                     sharingIntent.setType("vnd.android.cursor.dir/email");
                     //TODO Change the email address
-                    sharingIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"hk2561@columbia.edu"});
+                    sharingIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"sebastian@cs.columbia.edu"});
                     sharingIntent.putExtra(Intent.EXTRA_STREAM, uri);
                     sharingIntent.putExtra(Intent.EXTRA_SUBJECT, "Browser History Log");
                     sharingIntent.putExtra(Intent.EXTRA_TEXT, "");
@@ -137,7 +137,9 @@ public class MainActivity extends ActionBarActivity {
             "content://com.android.chrome.browser/bookmarks",
             "content://com.android.chrome.beta.browser/bookmarks",
             "content://com.firefox.browser/bookmarks",
-            "content://com.android.browser/bookmarks"};
+            "content://org.mozilla.firefox.db.browser/bookmarks",
+            "content://com.android.browser/bookmarks",
+            "content://browser/bookmarks"};
 
     private long lastChecked = 0;
     private static Context context;
