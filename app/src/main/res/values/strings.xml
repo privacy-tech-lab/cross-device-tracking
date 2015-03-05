@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TestApp2</string>
-    <string name="get_history">Get Browsing History</string>
+    <string name="app_name">Browser Hist Collector</string>
+    <string name="get_history">Send Browsing History</string>
     <string name="action_settings">Settings</string>
 </resources>

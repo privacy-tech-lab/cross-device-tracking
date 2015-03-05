@@ -56,7 +56,7 @@ public class MainActivity extends ActionBarActivity {
                     Intent sharingIntent = new Intent(Intent.ACTION_SEND);
                     sharingIntent.setType("vnd.android.cursor.dir/email");
                     //TODO Change the email address
-                    sharingIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"sebastian@cs.columbia.edu"});
+                    sharingIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"hk2561@columbia.edu"});
                     sharingIntent.putExtra(Intent.EXTRA_STREAM, uri);
                     sharingIntent.putExtra(Intent.EXTRA_SUBJECT, "Browser History Log");
                     sharingIntent.putExtra(Intent.EXTRA_TEXT, "");
