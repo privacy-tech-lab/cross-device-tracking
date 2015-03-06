@@ -17,6 +17,9 @@ import android.content.Intent;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 
 public class MainActivity extends ActionBarActivity {
 
@@ -100,8 +103,11 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void parseHistory(Cursor mCur, File file, String browserID) throws IOException {
+
         mCur.moveToFirst();
-        String date;
+
+        long unixDate;
+
         String url;
         String title;
         String visits;
@@ -109,15 +115,22 @@ public class MainActivity extends ActionBarActivity {
         String dl = ",";
 
         FileWriter writer = new FileWriter(file.getAbsolutePath(), true);
+
         if (mCur.moveToFirst() && mCur.getCount() > 0) {
+
             while (!mCur.isAfterLast()) {
-                date = mCur.getString(mCur.getColumnIndex(proj[0]));
+
+                // convert UNIX date to human-readable format
+                unixDate = Long.parseLong(mCur.getString(mCur.getColumnIndex(proj[0])));
+                SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy,hh:mm:ss,z");
+                String date = sdf.format(new Date(unixDate));
+
                 url = mCur.getString(mCur.getColumnIndex(proj[1]));
                 title = mCur.getString(mCur.getColumnIndex(proj[2]));
                 visits = mCur.getString(mCur.getColumnIndex(proj[3]));
                 created = mCur.getString(mCur.getColumnIndex(proj[4]));
 
-                if (Long.parseLong(date) < lastChecked) {
+                if (unixDate < lastChecked) {
                     mCur.moveToNext();
                     continue;
                 }
