@@ -19,21 +19,25 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Locale;
 
 
 public class MainActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button button1 = (Button)findViewById(R.id.button_1);
         context = getApplicationContext();
 
         button1.setOnClickListener(new OnClickListener() {
+
             @Override
             public void onClick(View arg0) {
                 try {
+
                     SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
                     lastChecked = settings.getLong("lastChecked", 0);
                     Uri uriCustom;
@@ -41,11 +45,13 @@ public class MainActivity extends ActionBarActivity {
                     Cursor mCur;
                     File file = new File(context.getExternalCacheDir() + "/WebUsage.txt");
                     boolean createFileSucceeded = file.createNewFile();
+
                     if (!createFileSucceeded) {
                         throw new IOException("Unable to create file");
                     }
 
                     for (int i=0; i<browsers.length; i++) {
+
                         String browser = browsers[i];
                         String browserID = browserIDs[i];
                         uriCustom = Uri.parse(browser);
@@ -107,11 +113,10 @@ public class MainActivity extends ActionBarActivity {
         mCur.moveToFirst();
 
         long unixDate;
-
         String url;
         String title;
         String visits;
-        String created;
+        long unixCreated;
         String dl = ",";
 
         FileWriter writer = new FileWriter(file.getAbsolutePath(), true);
@@ -120,15 +125,19 @@ public class MainActivity extends ActionBarActivity {
 
             while (!mCur.isAfterLast()) {
 
-                // convert UNIX date to human-readable format
+                // convert UNIX access date to human-readable format
                 unixDate = Long.parseLong(mCur.getString(mCur.getColumnIndex(proj[0])));
-                SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy,hh:mm:ss,z");
-                String date = sdf.format(new Date(unixDate));
+                SimpleDateFormat sdfDate = new SimpleDateFormat("MM/dd/yyyy,hh:mm:ss,z", Locale.US);
+                String date = sdfDate.format(new Date(unixDate));
 
                 url = mCur.getString(mCur.getColumnIndex(proj[1]));
                 title = mCur.getString(mCur.getColumnIndex(proj[2]));
                 visits = mCur.getString(mCur.getColumnIndex(proj[3]));
-                created = mCur.getString(mCur.getColumnIndex(proj[4]));
+
+                // convert UNIX create date to human-readable format
+                unixCreated = Long.parseLong(mCur.getString(mCur.getColumnIndex(proj[4])));
+                SimpleDateFormat sdfCreated = new SimpleDateFormat("MM/dd/yyyy,hh:mm:ss,z", Locale.US);
+                String created = sdfCreated.format(new Date(unixCreated));
 
                 if (unixDate < lastChecked) {
                     mCur.moveToNext();
@@ -139,6 +148,7 @@ public class MainActivity extends ActionBarActivity {
                 mCur.moveToNext();
             }
         }
+
         writer.close();
         mCur.close();
     }
