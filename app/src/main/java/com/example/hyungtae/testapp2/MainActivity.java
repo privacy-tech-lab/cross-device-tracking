@@ -18,7 +18,6 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-//TODO Add field to set user_id
 public class MainActivity extends ActionBarActivity {
 
     @Override
@@ -37,38 +36,42 @@ public class MainActivity extends ActionBarActivity {
                     Uri uriCustom;
                     String sel = Browser.BookmarkColumns.BOOKMARK + " = 0"; // 0 = history, 1 = bookmark
                     Cursor mCur;
-                    //TODO Filename should depend on username and time
-                    File file = new File(context.getExternalCacheDir() + "/hist.txt");
-                    file.createNewFile();
-                    for (String browser : browsers) {
+                    File file = new File(context.getExternalCacheDir() + "/WebUsage.txt");
+                    boolean createFileSucceeded = file.createNewFile();
+                    if (!createFileSucceeded) {
+                        throw new IOException("Unable to create file");
+                    }
+
+                    for (int i=0; i<browsers.length; i++) {
+                        String browser = browsers[i];
+                        String browserID = browserIDs[i];
                         uriCustom = Uri.parse(browser);
-                        //TODO more elegant error handling
                         try {
                             mCur = getContentResolver().query(uriCustom, proj, sel, null, null);
                             if (mCur != null)
-                                parseHistory(mCur, file);
+                                parseHistory(mCur, file, browserID);
                         } catch (Exception e) {
-
+                            e.printStackTrace();
                         }
                     }
 
                     Uri uri = Uri.parse("file://" + file.getAbsolutePath());
                     Intent sharingIntent = new Intent(Intent.ACTION_SEND);
                     sharingIntent.setType("vnd.android.cursor.dir/email");
-                    //TODO Change the email address
-                    sharingIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"hk2561@columbia.edu"});
+                    sharingIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"sebastian@cs.columbia.edu"});
                     sharingIntent.putExtra(Intent.EXTRA_STREAM, uri);
-                    sharingIntent.putExtra(Intent.EXTRA_SUBJECT, "Browser History Log");
-                    sharingIntent.putExtra(Intent.EXTRA_TEXT, "");
+                    sharingIntent.putExtra(Intent.EXTRA_SUBJECT, "Web Usage Stats");
+                    sharingIntent.putExtra(Intent.EXTRA_TEXT, "Please replace this text with your e-mail " +
+                            "address that you used throughout this study.");
                     startActivity(Intent.createChooser(sharingIntent, "Send email"));
 
                     SharedPreferences.Editor editor = settings.edit();
                     lastChecked = System.currentTimeMillis()/1000;
                     editor.putLong("lastChecked", lastChecked);
-                    editor.commit();
+                    editor.apply();
                 }
                 catch (IOException e) {
-
+                    e.printStackTrace();
                 }
             }
         });
@@ -96,32 +99,30 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void parseHistory(Cursor mCur, File file) throws IOException {
+    private void parseHistory(Cursor mCur, File file, String browserID) throws IOException {
         mCur.moveToFirst();
-        String title;
-        String url;
         String date;
-        String visits ;
+        String url;
+        String title;
+        String visits;
         String created;
-        String dl = "\t";
+        String dl = ",";
 
         FileWriter writer = new FileWriter(file.getAbsolutePath(), true);
         if (mCur.moveToFirst() && mCur.getCount() > 0) {
             while (!mCur.isAfterLast()) {
-                title = mCur.getString(mCur.getColumnIndex(proj[0]));
+                date = mCur.getString(mCur.getColumnIndex(proj[0]));
                 url = mCur.getString(mCur.getColumnIndex(proj[1]));
-                date = mCur.getString(mCur.getColumnIndex(proj[2]));
+                title = mCur.getString(mCur.getColumnIndex(proj[2]));
                 visits = mCur.getString(mCur.getColumnIndex(proj[3]));
                 created = mCur.getString(mCur.getColumnIndex(proj[4]));
-
-                //TODO Store the last checked time
 
                 if (Long.parseLong(date) < lastChecked) {
                     mCur.moveToNext();
                     continue;
                 }
 
-                writer.write(title + dl + url + dl + date + dl + visits + dl + created + '\n');
+                writer.write(browserID + dl+ date + dl + url + dl + title + dl + visits + dl + created + '\n');
                 mCur.moveToNext();
             }
         }
@@ -130,19 +131,27 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private final String[] proj = new String[] {
-            Browser.BookmarkColumns.TITLE,
-            Browser.BookmarkColumns.URL,
             Browser.BookmarkColumns.DATE,
+            Browser.BookmarkColumns.URL,
+            Browser.BookmarkColumns.TITLE,
             Browser.BookmarkColumns.VISITS,
             Browser.BookmarkColumns.CREATED};
 
     private final String[] browsers = new String[]{
             "content://com.android.chrome.browser/bookmarks",
             "content://com.android.chrome.beta.browser/bookmarks",
-            "content://com.firefox.browser/bookmarks",
-            "content://org.mozilla.firefox.db.browser/bookmarks",
             "content://com.android.browser/bookmarks",
-            "content://browser/bookmarks"};
+            "content://browser/bookmarks",
+            "content://com.firefox.browser/bookmarks",
+            "content://org.mozilla.firefox.db.browser/bookmarks"};
+
+    private final String[] browserIDs = new String[]{
+            "Chrome",
+            "Chrome Beta",
+            "Native Android 1",
+            "Native Android 2",
+            "Firefox 1",
+            "Firefox 2"};
 
     private long lastChecked = 0;
     private static Context context;
