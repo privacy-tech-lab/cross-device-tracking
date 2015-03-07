@@ -1,12 +1,21 @@
 package com.example.hyungtae.testapp2;
 
-import android.app.AlertDialog;
 import android.app.Service;
 import android.content.Intent;
 import android.os.IBinder;
 import android.util.Log;
-import android.view.Gravity;
-import android.widget.TextView;
+
+import org.apache.http.NameValuePair;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.message.BasicNameValuePair;
+import org.apache.http.protocol.HTTP;
+
+import java.util.ArrayList;
+import java.util.List;
+
 
 public class WebService extends Service {
 
@@ -32,26 +41,37 @@ public class WebService extends Service {
             @Override
             public void run() {
 
-
                 //Your logic that service will perform will be placed here
-                //In this example we are just looping and waits for 1000 milliseconds in each loop.
-                for (int i = 0; i < 5; i++) {
-                    try {
+                try {
 
-                        AlertDialog.Builder popupBuilder = new AlertDialog.Builder(WebService.this);
-                        TextView myMsg = new TextView(WebService.this);
-                        myMsg.setText("Central");
-                        myMsg.setGravity(Gravity.CENTER_HORIZONTAL);
-                        popupBuilder.setView(myMsg);
+                    // url where the data will be posted
+                    String postReceiverUrl = "https://datavpnserver.cs.columbia.edu/submission.php";
+                    Log.v(TAG, "postURL: " + postReceiverUrl);
 
+                    // HttpClient
+                    HttpClient httpClient = new DefaultHttpClient();
 
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    }
+                    // post header
+                    HttpPost httpPost = new HttpPost(postReceiverUrl);
 
-                    if(isRunning){
-                        Log.i(TAG, "Service running");
-                    }
+                    // add your data
+                    String testString = "identifier|url,title,date";
+                    List<NameValuePair> pairs = new ArrayList<>();
+                    pairs.add(new BasicNameValuePair("serverData", testString));
+
+                    httpPost.setEntity(new UrlEncodedFormEntity(pairs, HTTP.UTF_8));
+
+                    httpPost.setHeader("Content-Type", "application/x-www-form-urlencoded");
+
+                    // execute HTTP post request
+                    httpClient.execute(httpPost);
+
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+
+                if(isRunning){
+                    Log.i(TAG, "Service running");
                 }
 
                 //Stop service once it finishes its task
