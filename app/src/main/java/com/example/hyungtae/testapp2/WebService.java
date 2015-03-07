@@ -46,6 +46,7 @@ public class WebService extends Service {
 
 
                     } catch (Exception e) {
+                        e.printStackTrace();
                     }
 
                     if(isRunning){
