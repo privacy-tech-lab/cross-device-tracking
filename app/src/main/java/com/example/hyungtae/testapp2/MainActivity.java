@@ -38,17 +38,16 @@ public class MainActivity extends ActionBarActivity {
             public void onClick(View arg0) {
                 try {
 
+                    Intent intent = new Intent(MainActivity.this, WebService.class);
+                    startService(intent);
+
                     SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
                     lastChecked = settings.getLong("lastChecked", 0);
                     Uri uriCustom;
                     String sel = Browser.BookmarkColumns.BOOKMARK + " = 0"; // 0 = history, 1 = bookmark
                     Cursor mCur;
                     File file = new File(context.getExternalCacheDir() + "/WebUsage.txt");
-                    boolean createFileSucceeded = file.createNewFile();
-
-                    if (!createFileSucceeded) {
-                        throw new IOException("Unable to create file");
-                    }
+                    file.createNewFile();
 
                     for (int i=0; i<browsers.length; i++) {
 
