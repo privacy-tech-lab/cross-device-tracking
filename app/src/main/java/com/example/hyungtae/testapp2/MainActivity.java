@@ -66,7 +66,7 @@ public class MainActivity extends ActionBarActivity {
                     Uri uri = Uri.parse("file://" + file.getAbsolutePath());
                     Intent sharingIntent = new Intent(Intent.ACTION_SEND);
                     sharingIntent.setType("vnd.android.cursor.dir/email");
-                    sharingIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"sebastian@cs.columbia.edu"});
+                    sharingIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"me@hyungtaekim.com"});
                     sharingIntent.putExtra(Intent.EXTRA_STREAM, uri);
                     sharingIntent.putExtra(Intent.EXTRA_SUBJECT, "Web Usage Stats");
                     sharingIntent.putExtra(Intent.EXTRA_TEXT, "Please replace this text with your e-mail " +
@@ -165,7 +165,9 @@ public class MainActivity extends ActionBarActivity {
             "content://com.android.browser/bookmarks",
             "content://browser/bookmarks",
             "content://com.firefox.browser/bookmarks",
-            "content://org.mozilla.firefox.db.browser/bookmarks"};
+            "content://org.mozilla.firefox.db.browser/bookmarks",
+            "content://com.sec.android.app.sbrowser.browser/bookmarks",
+            };
 
     private final String[] browserIDs = new String[]{
             "Chrome",
@@ -173,7 +175,8 @@ public class MainActivity extends ActionBarActivity {
             "Native Android 1",
             "Native Android 2",
             "Firefox 1",
-            "Firefox 2"};
+            "Firefox 2",
+            "S-Browser"};
 
     private long lastChecked = 0;
     private static Context context;
