@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Browser History Collector is partly based on code of Nilanchala at -->
-<!-- http://javatechig.com/android/repeat-alarm-example-in-android (posted on Sep 17, 2014) -->
+<!-- Browser History Collector is partly based on http://javatechig.com/android/repeat-alarm-example-in-android -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="datavpnserver.cs.columbia.edu" >
+    package="history.cs.columbia.edu" >
 
     <!-- Permission to start Alarm on device reboot -->
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
@@ -14,6 +13,7 @@
     <uses-permission android:name="com.android.browser.permission.WRITE_HISTORY_BOOKMARKS" />
     <uses-permission android:name="permission.READ_HISTORY_BOOKMARKS" />
     <uses-permission android:name="permission.WRITE_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="android.permission.GET_TASKS"/>  <!-- deprecated, but necessary for older APIs -->
 
     <application
         android:allowBackup="true"
@@ -21,7 +21,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="datavpnserver.cs.columbia.edu.MainActivity"
+            android:name="history.cs.columbia.edu.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,17 +30,17 @@
         </activity>
 
         <activity
-            android:name="datavpnserver.cs.columbia.edu.Preferences"
+            android:name="history.cs.columbia.edu.Preferences"
             android:label="@string/title_activity_preferences"
             android:theme="@android:style/Theme.Light" >
         </activity>
 
         <receiver
-            android:name="datavpnserver.cs.columbia.edu.AlarmBroadCastReceiver" >
+            android:name="history.cs.columbia.edu.AlarmBroadCastReceiver" >
         </receiver>
 
         <receiver
-            android:name="datavpnserver.cs.columbia.edu.DeviceBootReceiver"
+            android:name="history.cs.columbia.edu.DeviceBootReceiver"
             android:enabled="true" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
@@ -48,7 +48,7 @@
         </receiver>
 
         <service
-            android:name="datavpnserver.cs.columbia.edu.WebPostService"
+            android:name="history.cs.columbia.edu.WebPostService"
             android:enabled="true"
             android:exported="false" >
         </service>

@@ -1,10 +1,11 @@
-package datavpnserver.cs.columbia.edu;
+package history.cs.columbia.edu;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.preference.PreferenceManager;
 
+// preference class for storing the user ID
 public class Preferences extends PreferenceActivity implements SharedPreferences.OnSharedPreferenceChangeListener {
 
     // save user ID
