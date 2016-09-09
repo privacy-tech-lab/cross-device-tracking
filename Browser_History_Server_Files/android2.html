@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   	 <!-- mobile view 320 -->
+    	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+	<title>Android Sign Up</title>
+    	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+	<!-- test whether third party cookies are enabled (cookieValue = 1) or not (cookieValue = 0);
+	cookieValue is stored in a first party cookie and displayed to the user on the next screen;
+	based on http://stackoverflow.com/questions/3550790/check-if-third-party-cookies-are-enabled 
+	our system is using the following three HTTP cookies: first_party_cookie_test for testing first party cookies,
+	third_party_cookie_test for testing third party cookies, and user_id for storing the user identifier  -->
+	<script>
+		var receiveMessage = function (evt) {
+			var cookieName = "third_party_cookie_test";
+			var cookieValue;
+			var expDays = 60;
+			if (evt.data === 'MM:3PCunsupported') {
+				cookieValue = 0;
+			} 
+			else if (evt.data === 'MM:3PCsupported') {
+				cookieValue = 1;
+			}
+			setCookie(cookieName, cookieValue, expDays);
+		};
+		window.addEventListener("message", receiveMessage, false);
+	</script>
+    <!-- display when JavaScript is not enabled -->
+    <noscript>
+		JavaScript is not enabled. If you want to participate in this study, JavaScript needs to be enabled. Please change your browser settings accordingly and then refresh this website.
+    </noscript>
+    <!-- display when first party HTTP cookies are not enabled -->
+    <div id="cookiesNotEnabledMessage" style="display:none">
+		First Party HTTP cookies are not enabled. If you want to participate in this study, First Party HTTP cookies need to be enabled. Please change your browser settings accordingly and then refresh this website.
+    </div>
+    <!-- display when JavaScript and first party HTTP cookies are enabled -->
+    <div id="JsAndCookiesEnabledMessage" style="display:none">
+        <form name="sign_up_form" id="sign_up_form" action="android3.php" onsubmit="return writeCookieValue()" method="POST">
+            <fieldset>
+            <legend><b>Android Sign Up</b></legend>
+            <p><label>E-Mail (Please use the same throughout the study. It serves as your identifier.)</label> <input type="text" name="e_mail" id="e_mail"/></p>
+            <input type="hidden" name="identifier" id="identifier"/>
+            <p><label>Is any browser on this device regularly shared by multiple users? </label> 
+            <select name="mob_browsers_shared" id="mob_browsers_shared" style style="font-weight:bold; font-size:xx-large;">
+                <option value="">Select...</option>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </select></p>
+            <p><label>Is any app (excluding browsers) on this device regularly shared by multiple users? </label> 
+            <select name="apps_shared" id="apps_shared">
+                <option value="">Select...</option>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </select></p>
+            <p><label></label><input type="submit" id="sign_up_button" name="sign_up" value="Submit Sign Up Data"></p>
+            </fieldset>
+        </form>
+    	<p>Android Sign Up Progress: 2/5</p>
+    </div>
+    <!-- scripts for checking whether first party HTTP cookies and JavaScript are enabled, first part of Flash cookie test, and form validation; 
+    jQuery and swfStore perform Flash cookies test, _core_v20140409 contains HTTP cookie test, jquery.validate validates form -->
+    <script src="jquery-1.11.1.min.js"></script>
+    <script src="swfstore.js"></script>
+    <script src="_core_v20140409.js"></script>
+    <script src="jquery.validate.min.js"></script>
+    <!-- check whether first party HTTP cookies and JavaScript are enabled -->
+    <script>
+        var cookieValue = 1;
+        var cookiesEnabled = fingerprint_cookie(cookieValue);
+        <!-- if first party HTTP cookies and JavaScript are enabled, trigger respective message and start Flash cookie test -->
+        if (cookiesEnabled == "true; true") {
+            document.getElementById('JsAndCookiesEnabledMessage').style.display='block';
+            fingerprint_set_flash_cookie();
+        }
+        <!-- if first party HTTP cookies are not enabled, trigger respective message -->
+        else {
+            document.getElementById('cookiesNotEnabledMessage').style.display='block';
+        }
+    </script>
+    <!-- check for valid user input into the sign up form fields -->
+    <script>
+        $( "#sign_up_form" ).validate({
+			errorClass: "message_color",
+          	rules: {
+            	e_mail: {
+              		required: true,
+              		email: true
+            	},
+            	mob_browsers_shared: {
+              		required: true
+            	},
+            	apps_shared: {
+              		required: true
+            	}
+          	}
+        });
+    </script>
+    <script>
+        function writeCookieValue(){
+		<!-- write cookie with e-mail to identify user's device for the device fingerprint-->
+		var cookieName = "user_id";
+		var cookieValue = document.forms["sign_up_form"]["e_mail"].value + "_mobile";
+		var expDays = 60;
+		setCookie(cookieName, cookieValue, expDays);
+		<!-- write e-mail to server to identify user's device during web history collection -->
+		document.getElementById("identifier").value = cookieValue;
+        }
+    </script>
+	<!-- iframe for third party cookie test based on http://stackoverflow.com/questions/3550790/check-if-third-party-cookies-are-enabled;
+	requires start.html and complete.html on third party domain with https -->
+	<iframe name="third_party_cookies" id="third_party_cookies" src="https://dl.dropboxusercontent.com/u/86433420/site/start.html" style="display:none" />
+</body>
+</html>

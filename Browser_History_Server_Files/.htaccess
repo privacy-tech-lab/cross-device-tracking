@@ -1,0 +1,3 @@
+<IfDefine SSL>
+SSLRequireSSL
+</IfDefine>

@@ -1,0 +1,60 @@
+/* CSS Document */
+.centeredImage{
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+body {
+	font-size: 100%;
+	font-size:x-large;
+}
+p {
+	margin-right: 30px;
+	margin-left: 30px;
+	background-color:white;
+}
+h1 {
+	margin-right: 30px;
+	margin-left: 30px;
+	/* for proper display in native Android browser */
+	background-color: white;
+}
+OL {
+	margin-right: 30px;
+	margin-left: 30px;
+}
+img {
+	width: 70%;
+	height: 70%;
+	/* for Internet Explorer 8 */
+	width: auto\9;
+}
+figure {
+	border: 1px solid;
+	padding: 5px;
+	max-width: 70%;
+	height: 70%;
+}
+button {
+  	opacity: 1;
+   	font-weight: bold;
+	font-size: large;
+}
+button:hover {
+  	opacity: 0.75;
+}
+input {
+	font-size: large;
+}
+select {
+	font-size: large;
+}
+/* red error messages */
+.message_color {
+	color: #FF0000;
+}
+lnbreak {
+	overflow: hidden;
+	word-break: break-all;
+}

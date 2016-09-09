@@ -10,8 +10,63 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4146a0fc-6724-4dcf-9404-16b1f7dacc6e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="4146a0fc-6724-4dcf-9404-16b1f7dacc6e" name="Default" comment="Added Browser_History_Server_Files">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/Browser_History_C_final.crx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browser_history_collector-1.0-sm+fx.xpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/chrome1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/chrome2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/consent.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/firefox1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/firefox2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/firefox3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/opera1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/opera2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/opera3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/project_illustration.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/storage.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/storage.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/thanks.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/todo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/.htaccess.save" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/Storage.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/_core_v20140409.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/_md5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/_swfobject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers2_chrome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers2_firefox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers2_opera.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/explanations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/httpd.conf.save" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/questionnaire1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/questionnaire2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/Storage.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/swfstore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/submission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/swfstore.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BrowserHistoryCollector.iws" />
@@ -54,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.19607843">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -2246,7 +2301,19 @@
       <option name="project" value="LOCAL" />
       <updated>1473424274795</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated .gitignore">
+      <created>1473424465473</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1473424465473</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Browser_History_IE">
+      <created>1473424561397</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1473424561397</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2260,10 +2327,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2271,7 +2338,7 @@
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32638037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28588957" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955772" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2314,7 +2381,10 @@
     <MESSAGE value="Added Browser_History_Chrome" />
     <MESSAGE value="Added Browser_History_Firefox" />
     <MESSAGE value="Added Browser_History_Safari" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Browser_History_Safari" />
+    <MESSAGE value="Updated .gitignore" />
+    <MESSAGE value="Added Browser_History_IE" />
+    <MESSAGE value="Added Browser_History_Server_Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Browser_History_Server_Files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2788,7 +2858,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19607843">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
