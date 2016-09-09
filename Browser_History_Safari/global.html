@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<title> </title>
+<script>
+
+
+// Ajax/XMLHttpRequest function for posting the current date (including time) and URL to a server file;
+// for secure data transmission use a server with HTTPS
+function postServerData(historyEntry) {
+	
+    // create XMLHttpRequest instance  
+    var xhr;
+    if (window.XMLHttpRequest) {
+        xhr = new XMLHttpRequest();
+    }
+    else if (window.ActiveXObject) {
+        xhr = new ActiveXObject("Msxml2.XMLHTTP");
+    }
+    else {
+        throw new Error("Ajax is not supported by this browser");
+    }
+	var serverData = historyEntry;
+	// escape ampersand and other characters that are not displayed correctly in PHP posts
+	var serverDataClean = encodeURIComponent(serverData);
+    // post data to the server;
+    // note the necessary content type application/x-www-form-urlencoded
+    xhr.open('POST', 'https://datavpnserver.cs.columbia.edu/submission.php');
+    xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    xhr.send("serverData=" + serverDataClean);
+}
+
+
+// save identifier cookie (not third party cookie test cookie)
+function saveCookie(cookie, event) {
+	var cookieArray = cookie.split(";");
+	var idCookie = cookieArray[1];
+	var cookie = idCookie.split("=");
+	var cookieName = cookie[0];
+	var cookieValue = cookie[1];
+    localStorage.cookieName = cookieValue;
+}
+
+
+// get identifier cookie to write to server
+function getCookie() {
+	var cookieValue = localStorage.cookieName;
+	return cookieValue;
+}
+
+
+// check whether message from inject.js is to save or get cookie
+function respondToMessage(theMessageEvent) {
+    
+    if(theMessageEvent.name === "saveCookie") {
+        var cookie = theMessageEvent.message;
+        saveCookie(cookie, theMessageEvent);
+    }
+    
+    if(theMessageEvent.name === "getCookie") {
+    	var dateUrls = theMessageEvent.message;
+    	var cookieValue = getCookie();
+    	var historyEntry = cookieValue + "|" + dateUrls + "\n";
+    	postServerData(historyEntry);
+    }
+}
+
+
+// receive message from inject.js 
+safari.application.addEventListener("message",respondToMessage,false);
+
+</script> 
