@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://browser_history_firefox/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://browser_history_firefox/locale/overlay.dtd">
+<overlay id="browser_history_firefox-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="jquery-1.11.1.min" />
+  <script src="ff-overlay.js"/>
+  <stringbundleset id="stringbundleset">
+    <stringbundle id="browser_history_firefox-strings" src="chrome://browser_history_firefox/locale/overlay.properties"/>
+  </stringbundleset>
+</overlay>

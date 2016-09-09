@@ -1,0 +1,6 @@
+C:\Users\Sebastian\AppData\Roaming\Mozilla\Firefox\Profiles\rb5vxt6v.default\extensions
+
+In the extensions folder put all files into folder and start firefox (then the extension should be loaded).
+Folder with extension files should be named vpn_admin@datavpnserver.cs.columbia.edu
+
+It might be necessary to override add-on signing: You can temporarily override the setting to enforce the add-on signing requirement by changing the preference xpinstall.signatures.required to false in the Firefox Configuration Editor (about:config page).

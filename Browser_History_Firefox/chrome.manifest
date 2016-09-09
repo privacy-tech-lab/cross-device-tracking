@@ -1,0 +1,4 @@
+content   browser_history_firefox                 chrome/content/
+skin      browser_history_firefox   classic/1.0   chrome/skin/
+locale    browser_history_firefox   en-US         chrome/locale/en-US/
+overlay	  chrome://browser/content/browser.xul	  chrome://browser_history_firefox/content/ff-overlay.xul

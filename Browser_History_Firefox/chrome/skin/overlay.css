@@ -1,0 +1,20 @@
+#browser_history_firefox-hello
+{
+}
+#browser_history_firefox-toolbar-button
+{
+  list-style-image: url("chrome://browser_history_firefox/skin/toolbar-button.png");
+  -moz-image-region: rect(0px 24px 24px 0px);
+}
+#browser_history_firefox-toolbar-button:hover
+{
+  -moz-image-region: rect(24px 24px 48px  0px);
+}
+[iconsize="small"] #browser_history_firefox-toolbar-button
+{
+  -moz-image-region: rect( 0px 40px 16px 24px);
+}
+[iconsize="small"] #browser_history_firefox-toolbar-button:hover
+{
+  -moz-image-region: rect(24px 40px 40px 24px);
+}

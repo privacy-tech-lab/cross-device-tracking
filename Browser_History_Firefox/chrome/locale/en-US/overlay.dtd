@@ -1,0 +1,8 @@
+<!ENTITY browser_history_firefox.label "Your localized menuitem">
+<!ENTITY browser_history_firefoxContext.label "Your Menuitem">
+<!ENTITY browser_history_firefoxContext.accesskey "Y">
+<!ENTITY browser_history_firefoxToolbarButton.label "Your Toolbar Button">
+<!ENTITY browser_history_firefoxToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY browser_history_firefoxSidebar.label "Your Sidebar">
+<!ENTITY browser_history_firefoxToolbar.name  "example">
+<!ENTITY browser_history_firefoxToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &browser_history_firefoxToolbar.name;">
