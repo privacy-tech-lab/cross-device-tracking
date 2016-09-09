@@ -1,0 +1,6 @@
+c:\users\sebastian\documents\visual studio 2013\Projects\IE_Browser_History\IE_Browser_History\bin\Debug\IE_Browser_History.dll
+c:\users\sebastian\documents\visual studio 2013\Projects\IE_Browser_History\IE_Browser_History\bin\Debug\IE_Browser_History.pdb
+c:\users\sebastian\documents\visual studio 2013\Projects\IE_Browser_History\IE_Browser_History\obj\Debug\Interop.SHDocVw.dll
+c:\users\sebastian\documents\visual studio 2013\Projects\IE_Browser_History\IE_Browser_History\obj\Debug\IE_Browser_History.csproj.ResolveComReference.cache
+c:\users\sebastian\documents\visual studio 2013\Projects\IE_Browser_History\IE_Browser_History\obj\Debug\IE_Browser_History.dll
+c:\users\sebastian\documents\visual studio 2013\Projects\IE_Browser_History\IE_Browser_History\obj\Debug\IE_Browser_History.pdb
