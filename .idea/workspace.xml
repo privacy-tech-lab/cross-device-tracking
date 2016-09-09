@@ -10,64 +10,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4146a0fc-6724-4dcf-9404-16b1f7dacc6e" name="Default" comment="Added Browser_History_Server_Files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/Browser_History_C_final.crx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browser_history_collector-1.0-sm+fx.xpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/chrome1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/chrome2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/consent.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/firefox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/firefox1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/firefox2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/firefox3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/opera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/opera1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/opera2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/opera3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/project_illustration.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/storage.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/storage.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/thanks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/todo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/.htaccess.save" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/Storage.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/_core_v20140409.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/_md5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/_swfobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/additional-methods.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/android5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers2_chrome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers2_firefox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers2_opera.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/browsers6.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/explanations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/httpd.conf.save" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/questionnaire1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/questionnaire2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/Storage.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/complete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/start.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/site/swfstore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/submission.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Browser_History_Server_Files/swfstore.js" />
+    <list default="true" id="4146a0fc-6724-4dcf-9404-16b1f7dacc6e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
     </list>
     <ignored path="BrowserHistoryCollector.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,20 +45,26 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-13.058824">
               <caret line="50" column="55" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19607843">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.17806268">
+                <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -153,9 +106,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -167,6 +118,8 @@
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="false" />
+                <element signature="e#765#766#0" expanded="false" />
+                <element signature="e#803#804#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -177,9 +130,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -189,14 +140,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-              <folding>
-                <element signature="e#538#539#0" expanded="false" />
-                <element signature="e#580#581#0" expanded="false" />
-                <element signature="e#616#617#0" expanded="false" />
-                <element signature="e#655#656#0" expanded="false" />
-                <element signature="e#685#686#0" expanded="false" />
-                <element signature="e#721#722#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1865,8 +1809,8 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1875,6 +1819,22 @@
     <option name="y" value="-11" />
     <option name="width" value="1942" />
     <option name="height" value="1042" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1901,13 +1861,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+        <subPane subId="Default" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1928,14 +1886,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-        <subPane subId="Default" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="014691061000B015" />
@@ -2313,7 +2273,13 @@
       <option name="project" value="LOCAL" />
       <updated>1473424561397</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Browser_History_Server_Files">
+      <created>1473451415548</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1473451415548</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2327,10 +2293,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2399,6 +2365,8 @@
           <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#765#766#0" expanded="false" />
+            <element signature="e#803#804#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2407,14 +2375,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2466,6 +2427,8 @@
           <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#765#766#0" expanded="false" />
+            <element signature="e#803#804#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2474,14 +2437,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2533,6 +2489,8 @@
           <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#765#766#0" expanded="false" />
+            <element signature="e#803#804#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2541,14 +2499,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2612,14 +2563,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2676,14 +2620,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2737,13 +2674,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_activity.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/history/cs/columbia/edu/R.java">
@@ -2768,17 +2706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#3500#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2799,9 +2726,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2811,6 +2736,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#765#766#0" expanded="false" />
+            <element signature="e#803#804#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2819,9 +2746,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2829,28 +2754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15923567">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="55" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -2860,6 +2763,45 @@
         <state vertical-scroll-proportion="0.19607843">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#3500#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.058824">
+          <caret line="50" column="55" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34313726">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.17806268">
+            <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
