@@ -1,4 +1,4 @@
 # Cross_Device_Tracking
-Code for Cross-device Tracking Data Collection (includes Server Files, Android App, and Browser Extensions)
+Code for Cross-device Tracking Data Collection (includes Android App, Browser Extensions, and Server Files)
 
 change the package name
