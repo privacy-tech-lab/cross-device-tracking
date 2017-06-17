@@ -10,8 +10,246 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4146a0fc-6724-4dcf-9404-16b1f7dacc6e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="4146a0fc-6724-4dcf-9404-16b1f7dacc6e" name="Default" comment="Updated readme">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/100_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/100_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/101_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/101_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/102_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/102_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/103_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/103_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/104_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/104_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/105_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/105_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/106_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/106_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/107_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/108_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/108_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/109_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/10_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/10_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/110_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/111_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/111_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/112_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/112_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/113_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/113_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/114_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/114_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/115_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/115_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/116_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/117_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/117_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/118_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/118_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/119_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/119_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/11_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/11_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/120_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/121_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/122_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/122_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/123_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/123_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/124_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/125_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/125_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/126_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/12_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/13_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/13_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/14_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/14_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/15_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/15_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/16_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/17_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/17_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/18_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/18_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/19_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/1_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/1_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/20_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/20_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/21_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/21_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/22_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/22_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/23_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/23_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/24_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/25_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/25_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/26_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/26_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/27_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/28_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/28_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/29_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/29_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/2_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/2_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/30_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/30_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/31_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/31_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/32_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/32_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/33_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/33_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/34_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/34_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/35_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/35_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/36_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/37_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/37_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/38_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/38_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/39_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/39_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/3_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/3_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/40_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/40_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/41_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/41_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/42_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/42_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/43_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/43_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/44_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/44_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/45_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/45_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/46_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/46_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/47_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/47_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/48_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/48_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/49_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/49_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/4_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/4_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/50_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/50_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/51_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/51_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/52_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/52_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/53_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/53_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/54_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/54_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/55_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/55_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/56_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/56_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/57_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/57_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/58_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/58_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/59_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/59_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/5_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/5_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/60_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/60_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/61_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/61_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/62_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/62_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/63_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/63_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/64_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/65_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/65_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/66_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/66_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/67_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/67_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/68_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/68_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/69_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/6_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/70_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/70_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/71_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/71_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/72_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/72_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/73_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/73_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/74_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/74_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/75_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/75_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/76_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/76_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/77_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/77_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/78_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/78_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/79_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/7_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/7_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/80_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/80_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/81_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/81_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/82_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/82_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/83_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/84_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/84_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/85_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/85_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/86_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/86_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/87_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/87_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/88_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/88_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/89_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/89_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/8_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/8_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/90_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/90_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/91_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/91_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/92_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/92_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/93_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/93_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/94_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/94_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/95_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/95_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/96_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/96_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/97_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/97_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/98_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/98_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/99_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/99_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/9_desktop_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/9_mobile_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/fingerprint_anonymous.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/questionnaire_anonymous.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_processes_1_0_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_processes_1_0_7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BrowserHistoryCollector.iws" />
@@ -23,7 +261,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -43,8 +280,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.147059">
-              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="1075">
+              <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -53,8 +290,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19280206">
-              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+            <state relative-caret-position="150">
+              <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -63,12 +300,9 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#3500#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="2025">
+              <caret line="81" column="1" lean-forward="false" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -76,8 +310,8 @@
       <file leaf-file-name="DeviceBootReceiver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="675">
+              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -86,8 +320,8 @@
       <file leaf-file-name="AlarmBroadCastReceiver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,11 +330,9 @@
       <file leaf-file-name="Preferences.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Preferences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,13 +340,9 @@
       <file leaf-file-name="CurrentApplicationPackageRetriever.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/CurrentApplicationPackageRetriever.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#765#766#0" expanded="false" />
-                <element signature="e#803#804#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,11 +350,9 @@
       <file leaf-file-name="WebPostService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="2350">
+              <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,16 +360,9 @@
       <file leaf-file-name="Globals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-              <folding>
-                <element signature="e#538#539#0" expanded="false" />
-                <element signature="e#580#581#0" expanded="false" />
-                <element signature="e#616#617#0" expanded="false" />
-                <element signature="e#655#656#0" expanded="false" />
-                <element signature="e#685#686#0" expanded="false" />
-                <element signature="e#721#722#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="750">
+              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1817,6 +2036,12 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
@@ -1839,16 +2064,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -1864,35 +2080,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-        <subPane subId="Default" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BrowserHistoryCollector" />
+              <option name="myItemId" value="Cross_Device_Tracking" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support-annotations-21.0.3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support-annotations-21.0.3.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BrowserHistoryCollector" />
+              <option name="myItemId" value="Cross_Device_Tracking" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BrowserHistoryCollector" />
+              <option name="myItemId" value="Cross_Device_Tracking" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="PackagesPane">
+      <pane id="AndroidView">
         <subPane />
       </pane>
     </panes>
@@ -1914,239 +2139,166 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="history.cs.columbia.edu" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Application.app">
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <Native>
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-      </Native>
-      <Java />
-      <Hybrid>
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-      </Hybrid>
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrowserHistoryCollector" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrowserHistoryCollector" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrowserHistoryCollector" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrowserHistoryCollector" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="BrowserHistoryCollector" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrowserHistoryCollector" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <Native>
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-      </Native>
-      <Java />
-      <Hybrid>
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-      </Hybrid>
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method>
-        <option name="Make" enabled="false" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrowserHistoryCollector" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2183,9 +2335,6 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
-    </list>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -2199,7 +2348,9 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -2208,89 +2359,104 @@
       <changelist id="4146a0fc-6724-4dcf-9404-16b1f7dacc6e" name="Default" comment="" />
       <created>1460486301828</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1460486301828</updated>
     </task>
     <task id="LOCAL-00001" summary="Initial commit in new repository">
       <created>1473370735759</created>
       <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1473370735759</updated>
     </task>
     <task id="LOCAL-00002" summary="Initial commit in new repository">
       <created>1473370932242</created>
       <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1473370932242</updated>
     </task>
     <task id="LOCAL-00003" summary="Initial commit in new repository">
       <created>1473371336463</created>
       <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1473371336463</updated>
     </task>
     <task id="LOCAL-00004" summary="Initial commit in new repository">
       <created>1473371791727</created>
       <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1473371791727</updated>
     </task>
     <task id="LOCAL-00005" summary="Initial commit in new repository">
       <created>1473374014195</created>
       <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
       <updated>1473374014195</updated>
     </task>
     <task id="LOCAL-00006" summary="Updated readme">
       <created>1473374107871</created>
       <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
       <updated>1473374107871</updated>
     </task>
     <task id="LOCAL-00007" summary="Added Browser_History_Chrome">
       <created>1473385634832</created>
       <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
       <updated>1473385634832</updated>
     </task>
     <task id="LOCAL-00008" summary="Added Browser_History_Firefox">
       <created>1473423895003</created>
       <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
       <updated>1473423895003</updated>
     </task>
     <task id="LOCAL-00009" summary="Added Browser_History_Safari">
       <created>1473424274795</created>
       <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1473424274795</updated>
     </task>
     <task id="LOCAL-00010" summary="Updated .gitignore">
       <created>1473424465473</created>
       <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
       <updated>1473424465473</updated>
     </task>
     <task id="LOCAL-00011" summary="Added Browser_History_IE">
       <created>1473424561397</created>
       <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
       <updated>1473424561397</updated>
     </task>
     <task id="LOCAL-00012" summary="Added Browser_History_Server_Files">
       <created>1473451415548</created>
       <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
       <updated>1473451415548</updated>
     </task>
     <task id="LOCAL-00013" summary="Updated readme">
       <created>1473455237913</created>
       <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
       <updated>1473455237913</updated>
     </task>
     <task id="LOCAL-00014" summary="Updated readme">
       <created>1473463472281</created>
       <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
       <updated>1473463472281</updated>
     </task>
@@ -2308,39 +2474,44 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32638037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28588957" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955772" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23354909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973032" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32638037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955772" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
@@ -2376,493 +2547,382 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/CurrentApplicationPackageRetriever.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#765#766#0" expanded="false" />
-            <element signature="e#803#804#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="85" column="9" lean-forward="false" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+        <state relative-caret-position="0">
+          <caret line="16" column="66" lean-forward="false" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#3500#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="62" column="36" lean-forward="false" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        <state relative-caret-position="0">
+          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="71" column="30" lean-forward="false" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/CurrentApplicationPackageRetriever.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#765#766#0" expanded="false" />
-            <element signature="e#803#804#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="85" column="9" lean-forward="false" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+        <state relative-caret-position="0">
+          <caret line="16" column="66" lean-forward="false" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#3500#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="62" column="36" lean-forward="false" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        <state relative-caret-position="0">
+          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="71" column="30" lean-forward="false" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/CurrentApplicationPackageRetriever.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#765#766#0" expanded="false" />
-            <element signature="e#803#804#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="85" column="9" lean-forward="false" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="0">
+          <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+        <state relative-caret-position="0">
+          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#3500#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="62" column="34" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Preferences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="104" selection-start-line="22" selection-start-column="104" selection-end-line="22" selection-end-column="104" />
+        <state relative-caret-position="0">
+          <caret line="22" column="104" lean-forward="false" selection-start-line="22" selection-start-column="104" selection-end-line="22" selection-end-column="104" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="60" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="60" />
+        <state relative-caret-position="0">
+          <caret line="46" column="60" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="0">
+          <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#3500#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="62" column="34" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Preferences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="104" selection-start-line="22" selection-start-column="104" selection-end-line="22" selection-end-column="104" />
+        <state relative-caret-position="0">
+          <caret line="22" column="104" lean-forward="false" selection-start-line="22" selection-start-column="104" selection-end-line="22" selection-end-column="104" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="90" column="1" lean-forward="false" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="0">
+          <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#3500#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="61" column="24" lean-forward="false" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Preferences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_activity.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/history/cs/columbia/edu/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.270636">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_activity.xml" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/history/cs/columbia/edu/R.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Preferences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="600">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/CurrentApplicationPackageRetriever.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#765#766#0" expanded="false" />
-            <element signature="e#803#804#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="2350">
+          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#685#686#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="750">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7107969">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#3500#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="2025">
+          <caret line="81" column="1" lean-forward="false" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="675">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34313726">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.43019944">
-            <caret line="48" column="411" selection-start-line="48" selection-start-column="411" selection-end-line="48" selection-end-column="411" />
-            <folding />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="0">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.147059">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="1075">
+          <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19280206">
-          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+        <state relative-caret-position="150">
+          <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
           <folding />
         </state>
       </provider>
