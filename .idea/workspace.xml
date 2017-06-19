@@ -11,241 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4146a0fc-6724-4dcf-9404-16b1f7dacc6e" name="Default" comment="Updated readme">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/100_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/100_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/101_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/101_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/102_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/102_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/103_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/103_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/104_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/104_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/105_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/105_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/106_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/106_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/107_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/108_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/108_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/109_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/10_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/10_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/110_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/111_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/111_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/112_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/112_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/113_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/113_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/114_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/114_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/115_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/115_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/116_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/117_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/117_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/118_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/118_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/119_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/119_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/11_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/11_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/120_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/121_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/122_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/122_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/123_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/123_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/124_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/125_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/125_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/126_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/12_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/13_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/13_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/14_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/14_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/15_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/15_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/16_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/17_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/17_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/18_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/18_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/19_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/1_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/1_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/20_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/20_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/21_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/21_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/22_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/22_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/23_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/23_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/24_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/25_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/25_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/26_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/26_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/27_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/28_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/28_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/29_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/29_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/2_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/2_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/30_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/30_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/31_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/31_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/32_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/32_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/33_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/33_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/34_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/34_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/35_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/35_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/36_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/37_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/37_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/38_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/38_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/39_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/39_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/3_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/3_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/40_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/40_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/41_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/41_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/42_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/42_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/43_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/43_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/44_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/44_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/45_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/45_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/46_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/46_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/47_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/47_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/48_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/48_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/49_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/49_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/4_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/4_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/50_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/50_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/51_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/51_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/52_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/52_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/53_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/53_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/54_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/54_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/55_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/55_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/56_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/56_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/57_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/57_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/58_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/58_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/59_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/59_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/5_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/5_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/60_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/60_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/61_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/61_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/62_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/62_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/63_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/63_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/64_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/65_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/65_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/66_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/66_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/67_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/67_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/68_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/68_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/69_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/6_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/70_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/70_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/71_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/71_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/72_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/72_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/73_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/73_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/74_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/74_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/75_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/75_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/76_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/76_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/77_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/77_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/78_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/78_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/79_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/7_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/7_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/80_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/80_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/81_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/81_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/82_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/82_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/83_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/84_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/84_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/85_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/85_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/86_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/86_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/87_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/87_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/88_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/88_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/89_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/89_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/8_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/8_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/90_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/90_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/91_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/91_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/92_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/92_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/93_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/93_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/94_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/94_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/95_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/95_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/96_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/96_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/97_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/97_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/98_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/98_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/99_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/99_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/9_desktop_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Browsing_Histories_Anonymous/9_mobile_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/fingerprint_anonymous.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/questionnaire_anonymous.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_processes_1_0_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_processes_1_0_7.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_3.xml" />
@@ -277,91 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2025">
-              <caret line="81" column="1" lean-forward="false" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeviceBootReceiver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/DeviceBootReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlarmBroadCastReceiver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/AlarmBroadCastReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Preferences.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Preferences.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CurrentApplicationPackageRetriever.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/CurrentApplicationPackageRetriever.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebPostService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2350">
-              <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Globals.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <caret line="0" column="63" lean-forward="false" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -375,6 +61,17 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>uni</find>
+      <find>u</find>
+      <find>b</find>
+      <find>build</find>
+      <find>build.</find>
+      <find>build.gr</find>
+      <find>build.g</find>
+    </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="C:\Users\Sebastian\Desktop\K_Store\Android\" />
@@ -2080,26 +1777,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cross_Device_Tracking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support-annotations-21.0.3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support-annotations-21.0.3.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Cross_Device_Tracking" />
@@ -2112,8 +1793,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane />
       </pane>
@@ -2256,6 +1935,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -2460,7 +2145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1473463472281</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added cross-device tracking dataset">
+      <created>1497714679900</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1497714679900</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2474,19 +2166,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28588957" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973032" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973032" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2506,7 +2200,6 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955772" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2536,7 +2229,8 @@
     <MESSAGE value="Added Browser_History_IE" />
     <MESSAGE value="Added Browser_History_Server_Files" />
     <MESSAGE value="Updated readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated readme" />
+    <MESSAGE value="Added cross-device tracking dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added cross-device tracking dataset" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2841,30 +2535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/CurrentApplicationPackageRetriever.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2350">
-          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Globals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -2880,9 +2550,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
+        <state relative-caret-position="751">
           <caret line="81" column="1" lean-forward="false" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
           <folding />
         </state>
@@ -2904,25 +2589,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/Preferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/CurrentApplicationPackageRetriever.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/history/cs/columbia/edu/WebPostService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        <state relative-caret-position="0">
+          <caret line="0" column="63" lean-forward="false" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
           <folding />
         </state>
       </provider>
