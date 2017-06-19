@@ -2,8 +2,8 @@
 
 Software for Cross-device Tracking Data Collection (includes Android App, Browser Extensions, and Server Files)
 
-1. Overview
------------
+## 1. Overview
+--------------
 
 Cross-device tracking is a practice used by ad networks, analytics providers, and other Internet services to identify the different computers (desktops, laptops, smartphones, etc.) that belong to the same person. This identification of devices allows person-centric tracking. The system here helps researchers in their user studies to create cross-device tracking datasets.
 
