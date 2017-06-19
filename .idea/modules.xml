@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BrowserHistoryCollector.iml" filepath="$PROJECT_DIR$/BrowserHistoryCollector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software/Android_App/app.iml" filepath="$PROJECT_DIR$/Software/Android_App/app.iml" />
     </modules>
   </component>
 </project>
