@@ -34,7 +34,7 @@ The data directory contains the following:
 
 - Browsing_Histories_Anonymous: Desktop and mobile histories for each user in our study; usually one desktop and one mobile history file per user. The columns of each file contain: IP Address, Browser Vendor, Date, Time, Time Zone, Browser Tab ID, Referrer URL, URL/App Package ID, URL Title, 3rd Party Tracker/SDKs. The URLS are separated into [subdomain, second level domain, top domain, path]. Examples are [mobile, nytimes, com, N/A], [en, wikipedia, org, /wiki/Data_analysis], or [uah.facilities, columbia, edu, N/A]. Similarly, app package IDs are separated into their individual parts. Examples are [com, google, android, wearable, app], [com, snapchat, android], or [com, groupon]. Each part of an URL and a package ID is hashed using SHA 256. IP addresses and URL titles are also hashed.
 - fingerprint_anonymous.csv: Device fingerprints for each user in our study, usually one desktop and one mobile device fingerprint.
-- questionnaire_anonymous.csv: Gender, age group, interests, and personas of the users in our dataset.
+- questionnaire_anonymous.csv: Gender, age group, interests, and personas of users in our dataset.
 
 ## 4. Extension and App Setup
 
