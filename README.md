@@ -1,7 +1,7 @@
 # Cross_Device_Tracking (v1.1)
 
 A Privacy Analysis of Cross-device Tracking  
-Sebastian Zimmeck, Hyungtae Kim, Steven M. Bellovin, and Tony Jebara  
+Sebastian Zimmeck, Jie S. Li, Hyungtae Kim, Steven M. Bellovin, and Tony Jebara  
 USENIX Security 2017
 
 ## 1. Overview
