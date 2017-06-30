@@ -86,7 +86,7 @@ There may be many code modifications necessary to make the software run on your 
 
 ## 10. License
 
-All cross-device tracking software is released under the GPL-3 License, 2016, Sebastian Zimmeck and Hyungtae Kim.
+All cross-device tracking software is released under the GPL-3 License, 2016, Sebastian Zimmeck.
 
 ## 11. Contact Info
 
