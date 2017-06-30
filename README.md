@@ -62,7 +62,7 @@ There may be many code modifications necessary to make the software run on your 
 
 ## 8. Limitations
 
-* The Android app works for phones that are not rooted. However, browsing history will only be captured from Google Chrome, the native Android browser, and the Samsung S-Browser. For Android 6 and higher it is also no longer possible to access the saved browsing history, which the app relies on. Thus, for Android 6 and higher browsing history cannot be captured. You can ask your study participants to copy and paste their browsing history into an e-mail to you.
+* The Android app works for phones that are not rooted. However, browsing history will only be captured from Google Chrome, the native Android browser, and the Samsung S-Browser. For Android 6 and higher it also seems no longer possible to access the saved browsing history, which the app relies on. Thus, for Android 6 and higher browsing history seems difficult to capture. You can ask your study participants to copy and paste their browsing history into an e-mail to you.
 
 * The Android app checks every minute whether there is a new entry in the browsing history or a new app is running in the foreground. Thus, if a user opens and closes an app between two checks, it will not be detected.
 
