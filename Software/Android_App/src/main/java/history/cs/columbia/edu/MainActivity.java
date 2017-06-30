@@ -1,3 +1,10 @@
+/*
+ * Software is released under the GPL-3.0 License.
+ * Copyright (c) 2016, Sebastian Zimmeck
+ * All rights reserved.
+ *
+ */
+
 // if build error occurs due to expiration of debug certificate, delete the debug.keystore file at
 // C:\Users\<user>\.android\ (http://developer.android.com/tools/publishing/app-signing.html#expdebug)
 package history.cs.columbia.edu;

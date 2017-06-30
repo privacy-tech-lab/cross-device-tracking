@@ -1,6 +1,8 @@
 /*
- * Released under the  GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
- * Sebastian Zimmeck, sebastian@sebastianzimmeck.de
+ * Software is released under the GPL-3.0 License.
+ * Copyright (c) 2016, Sebastian Zimmeck
+ * All rights reserved.
+ *
  */
  
 // logic for putting together the cookie value with the date, URL, and other data

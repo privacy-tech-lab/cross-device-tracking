@@ -1,3 +1,10 @@
+/*
+ * Software is released under the GPL-3.0 License.
+ * Copyright (c) 2016, Sebastian Zimmeck
+ * All rights reserved.
+ *
+ */
+
 // Default preference values. These are accessible via the preferences system
 // or via the optional chrome/content/options.xul preferences dialog.
 

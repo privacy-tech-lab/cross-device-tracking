@@ -1,7 +1,9 @@
-﻿//
-// Released under the  GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
-// Sebastian Zimmeck, sebastian@sebastianzimmeck.de
-//
+﻿/*
+ * Software is released under the GPL-3.0 License.
+ * Copyright (c) 2016, Sebastian Zimmeck
+ * All rights reserved.
+ *
+ */
 
 // IeBrowserHistory.cs
 //http://markcz.wordpress.com/2011/12/27/how-to-create-internet-explorer-addin-in-csharp/

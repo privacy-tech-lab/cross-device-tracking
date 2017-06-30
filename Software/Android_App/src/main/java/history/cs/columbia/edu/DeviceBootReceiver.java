@@ -1,3 +1,10 @@
+/*
+ * Software is released under the GPL-3.0 License.
+ * Copyright (c) 2016, Sebastian Zimmeck
+ * All rights reserved.
+ *
+ */
+
 package history.cs.columbia.edu;
 
 import android.app.AlarmManager;
