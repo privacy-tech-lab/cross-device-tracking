@@ -1,12 +1,12 @@
 # Cross_Device_Tracking (v1.1)
 
 A Privacy Analysis of Cross-device Tracking  
-Sebastian Zimmeck, Hyungtae Kim, Steven M. Bellovin, and Tony Jebara  
+Sebastian Zimmeck, Jie S. Li, Hyungtae Kim, Steven M. Bellovin, and Tony Jebara
 USENIX Security 2017
 
 ## 1. Overview
 
-This repository contains data and software for cross-device tracking data collection. Cross-device tracking is a practice used by ad networks, analytics providers, and other Internet services to identify the different computers (desktops, laptops, smartphones, etc.) that belong to the same person. This identification of devices allows person-centric tracking. The system here helps researchers in their user studies to create cross-device tracking datasets.
+This repository contains data and software from our academic work on cross-device tracking. Cross-device tracking is a practice used by ad networks, analytics providers, and other Internet services to identify the different computers (desktops, laptops, smartphones, etc.) that belong to the same person. This identification of devices allows person-centric tracking. The software and data published here is intended to help researchers in their studies to explore cross-device tracking and create cross-device tracking datasets.
 
 Every participant in the user study needs an Android phone (iOS and other operating systems are not supported) and a desktop (or laptop) with Google Chrome or Mozilla Firefox (using any operating system). If a user has the respective app and extension installed browsing history as well as other device usage data will be sent to a server and stored there.
 
@@ -80,8 +80,8 @@ There are many code modifications necessary to make it run on your system. Most 
 
 ## 9. Version History
 
-- v1.0 initial publication (09/09/2016)
 - v1.1 added data (06/17/2017)
+- v1.0 initial publication (09/09/2016)
 
 ## 10. License
 
