@@ -1,6 +1,6 @@
-PLEASE NOTE: The dataset will be available August 21.
-
 # Cross_Device_Tracking (v1.2)
+
+PLEASE NOTE: The dataset will be available August 21.
 
 A Privacy Analysis of Cross-device Tracking  
 Sebastian Zimmeck, Jie S. Li, Hyungtae Kim, Steven M. Bellovin, and Tony Jebara  
