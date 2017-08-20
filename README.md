@@ -1,5 +1,3 @@
-PLEASE NOTE: THE DATASET WILL BE AVAILABLE AUGUST 21.
-
 # Cross_Device_Tracking (v1.3)
 
 A Privacy Analysis of Cross-device Tracking  
