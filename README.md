@@ -1,10 +1,10 @@
 PLEASE NOTE: THE DATASET WILL BE AVAILABLE AUGUST 21.
 
-# Cross_Device_Tracking (v1.2)
+# Cross_Device_Tracking (v1.3)
 
 A Privacy Analysis of Cross-device Tracking  
 Sebastian Zimmeck, Jie S. Li, Hyungtae Kim, Steven M. Bellovin, and Tony Jebara  
-USENIX Security 2017
+[USENIX Security 2017](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/zimmeck)
 
 ## 1. Overview
 
@@ -34,7 +34,7 @@ To learn more about individual files, please read the comments inside the files.
 
 The files in the data directory have the following format:
 
-* Browsing_Histories_Anonymous: The columns of each file in the directory contain: IP Address, Browser Vendor, Date, Time, Time Zone, Browser Tab ID, Referrer URL, URL/App Package ID, URL Title, 3rd Party Tracker/SDKs. The URLS are separated into [subdomain, second level domain, top domain, path]. Examples are [mobile, nytimes, com, N/A], [en, wikipedia, org, /wiki/Data_analysis], or [uah.facilities, columbia, edu, N/A]. Similarly, app package IDs are separated into their individual parts. Examples are [com, google, android, wearable, app], [com, snapchat, android], or [com, groupon]. Each part of an URL and a package ID is hashed using SHA 256. IP addresses and URL titles are also hashed.
+* Browsing_Histories_Anonymous: The columns of each file in the directory contain: IP Address, Browser Vendor, Date, Time, Time Zone, Browser Tab ID, Referrer URL, URL/App Package ID, URL Title, 3rd Party Tracker/SDKs. The URLS are separated into [subdomain, second level domain, top domain, path]. Examples are [mobile, nytimes, com, N/A], [en, wikipedia, org, /wiki/Data_analysis], or [uah.facilities, columbia, edu, N/A]. Similarly, app package IDs are separated into their individual parts. Examples are [com, google, android, wearable, app], [com, snapchat, android], or [com, groupon]. Each part of an URL and a package ID is hashed. IP addresses and URL titles are also hashed.
 * fingerprint_anonymous.csv, questionnaire_anonymous.csv, study_participant_list_anonymous.xlsx: The column titles in the files explain which data is contained in the columns.
 
 ## 4. Collecting New Data
@@ -89,6 +89,7 @@ There may be many code modifications necessary to make the software run for your
 
 ## 10. Version History
 
+* v1.3 changed data using new hash technique (08/20/2017)
 * v1.2 added data and revised documentation (06/29/2017)
 * v1.1 added data (06/17/2017)
 * v1.0 initial publication (09/09/2016)
