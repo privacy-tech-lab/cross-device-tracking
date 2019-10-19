@@ -1,4 +1,4 @@
-# Cross_Device_Tracking (v1.3)
+# Cross-device Tracking (v1.3)
 
 A Privacy Analysis of Cross-device Tracking  
 Sebastian Zimmeck, Jie S. Li, Hyungtae Kim, Steven M. Bellovin, and Tony Jebara  
