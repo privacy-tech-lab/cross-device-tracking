@@ -98,4 +98,4 @@ All cross-device tracking software is released under the GPL-3 License, 2016, Se
 
 ## 12. Contact Info
 
-For feedback and questions please contact Sebastian Zimmeck at sebastian@sebastianzimmeck.de.
+For feedback and questions please contact Sebastian Zimmeck at sebastian@privacytechlab.org.
